@@ -72,7 +72,7 @@ i18n:
   responseTimeMs: "Vasteaika (ms)"
   loading: "Ladataan"
   navGitHub: GitHub
-  footer: "Tämä sivu on [avointa lähdeköödi]($REPO), powered by [Upptime](https://upptime.js.org)"
+  footer: "Tämä sivu on [avointa lähdekoodia]($REPO). Powered by [Upptime](https://upptime.js.org)"
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
