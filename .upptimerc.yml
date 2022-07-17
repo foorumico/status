@@ -44,7 +44,7 @@ i18n:
   uptimeWeek: "7 päivän ylhäälläoloaika"
   uptimeMonth: "30 päivän ylhäälläoloaika"
   uptimeYear: "1 vuoden ylhäälläoloaika"
-  liveStatus: "Live tila"
+  liveStatus: "Järjestelmien tilat"
   liveStatusHtmlComment: "<!--live status-->"
   allSystemsOperational: "Kaikki järjestelmät toiminnassa"
   degradedPerformance: "Heikentynyt toiminta"
