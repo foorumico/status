@@ -31,9 +31,9 @@ i18n:
   history: "Historia"
   responseTime: "Vasteaika"
   uptime: "Ylhäälläoloaika"
-  up: "🟩 Ylhäällä"
-  degraded: "🟨 Heikentynyt"
-  down: "🟥 Alhaalla"
+  up: "Ylhäällä"
+  degraded: "Heikentynyt"
+  down: "Alhaalla"
   responseTimeGraphAlt: "Vasteaika graafi"
   ms: "ms"
   responseTimeDay: "24h vasteaika"
@@ -46,33 +46,33 @@ i18n:
   uptimeYear: "1 vuoden ylhäälläoloaika"
   liveStatus: "Live tila"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Kaikki järjestelmät toiminnassa"
-  degradedPerformance: "🟨 Heikentynyt toiminta"
-  completeOutage: "🟥 Täydellinen katkos"
-  partialOutage: "🟧 Osittainen katkos"
-  activeIncidents: Active Incidents
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  loading: Loading
+  allSystemsOperational: "Kaikki järjestelmät toiminnassa"
+  degradedPerformance: "Heikentynyt toiminta"
+  completeOutage: "Täydellinen katkos"
+  partialOutage: "Osittainen katkos"
+  activeIncidents: "Aktiiviset tapahtumat"
+  incidentReport: "Tapahtuma #$NUMBER raportti →"
+  activeIncidentSummary: "Avattu $DATE ja sisältää $POSTS viestiä"
+  incidentTitle: "Tapahtuman $NUMBER tiedot"
+  incidentDetails: "Tapahtuman tiedot"
+  incidentFixed: "Korjattu"
+  incidentOngoing: "Meneillään"
+  incidentOpenedAt: "Avattu"
+  incidentClosedAt: "Suljettu"
+  incidentViewOnGitHub: "Katso ja seuraa GitHubissa"
+  incidentCommentSummary: "Julkaistu $DATE ($AUTHOR)"
+  incidentBack: "← Takaisin tapahtumiin"
+  pastIncidents: "Menneet tapahtumat"
+  pastIncidentsResolved: "Ratkaistu $MINUTES minuutissa ja sisältää $POSTS viestiä"
+  overallUptime: "Ylhäälläoloaika: $UPTIME"
+  overallUptimeTitle: "Ylhäälläoloaika"
+  averageResponseTime: "Keskimääräinen vasteaika: $TIMEms"
+  averageResponseTimeTitle: "Keskimääräinen vasteaika"
+  sevelDayResponseTime: "7 päivän vasteaika"
+  responseTimeMs: "Vasteaika (ms)"
+  loading: "Ladataan"
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: "Tämä sivu on [avointa lähdeköödi]($REPO), powered by [Upptime](https://upptime.js.org)"
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
@@ -85,17 +85,17 @@ i18n:
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  errorTitle: "Tapahtui virhe"
+  errorIntro: "Tapahtui virhe, kun yritimme hakea viimeisimmän tilan tietoja."
+  errorText: "Voit yrittää uudelleen hetken kuluttua."
+  errorHome: "Mene etusivulle"
+  pastScheduledMaintenance: "Menneet ajastetut huollot"
+  scheduledMaintenance: "Ajastettu huolto"
+  scheduledMaintenanceSummaryStarted: "Alkoi $DATE ja kesti $DURATION minuuttia"
+  scheduledMaintenanceSummaryStarts: "Alkaa $DATE ja kestää $DURATION minuuttia"
+  startedAt: "Alkoi"
+  startsAt: "Alkaa"
+  duration: "Kesto"
+  durationMin: "$DURATION minuuttia"
+  incidentCompleted: "Valmistunut"
+  incidentScheduled: "Ajastettu"
