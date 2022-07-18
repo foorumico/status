@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.foorumi.co
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/foorumico/status/raw/master/assets/logo_512.png
   name: Foorumi.co Status
   introTitle: "**Foorumi.co** status"
   introMessage: Tällä sivulla voitte nähdä Foorumi.co palvelun eri tilat
