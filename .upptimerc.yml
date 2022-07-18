@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Foorumi.co
     url: https://foorumi.co
+    icon: https://github.com/foorumico/status/raw/master/assets/logo_512.png
   - name: Foorumi.co keskustelu
     url: https://keskustelu.foorumi.co
+    icon: https://github.com/foorumico/status/raw/master/assets/logo_512.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,6 +16,7 @@ status-website:
   cname: status.foorumi.co
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/foorumico/status/raw/master/assets/logo_512.png
+  favicon: https://github.com/foorumico/status/raw/master/assets/logo_512.png
   name: Foorumi.co Status
   introTitle: "**Foorumi.co** status"
   introMessage: Tällä sivulla voitte nähdä Foorumi.co eri järjestelmien tilat.
