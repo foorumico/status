@@ -16,12 +16,14 @@ status-website:
   logoUrl: https://github.com/foorumico/status/raw/master/assets/logo_512.png
   name: Foorumi.co Status
   introTitle: "**Foorumi.co** status"
-  introMessage: Tällä sivulla voitte nähdä Foorumi.co palvelun eri tilat
+  introMessage: Tällä sivulla voitte nähdä Foorumi.co eri järjestelmien tilat.
   navbar:
     - title: Status
       href: /
     - title: Foorumi.co
       href: https://foorumi.co
+    - title: Keskustelu
+      href: https://keskustelu.foorumi.co
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
