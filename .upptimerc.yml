@@ -9,6 +9,9 @@ sites:
   - name: Foorumi.co keskustelu
     url: https://keskustelu.foorumi.co
     icon: https://github.com/foorumico/status/raw/master/assets/logo_512.png
+  - name: Stockholm - Web 1
+    url: https://sto.web1.foorumi.co
+    icon: https://github.com/foorumico/status/raw/master/assets/logo_512.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
