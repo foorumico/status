@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 561,
-    "timeWeek": 545,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "time": 520,
+    "timeDay": 567,
+    "timeWeek": 548,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 619,
-    "timeWeek": 553,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 563,
+    "timeDay": 630,
+    "timeWeek": 564,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Stockholm - Web 1",
+    "url": "https://sto.web1.foorumi.co",
+    "icon": "https://github.com/foorumico/status/raw/master/assets/logo_512.png",
+    "slug": "stockholm-web-1",
+    "status": "down",
+    "uptime": "14.31%",
+    "uptimeDay": "14.31%",
+    "uptimeWeek": "14.31%",
+    "uptimeMonth": "14.31%",
+    "uptimeYear": "14.31%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   }
 ]
