@@ -40,19 +40,19 @@
     "url": "https://sto.web1.foorumi.co",
     "icon": "https://github.com/foorumico/status/raw/master/assets/logo_512.png",
     "slug": "stockholm-web-1",
-    "status": "down",
-    "uptime": "4.31%",
-    "uptimeDay": "4.31%",
-    "uptimeWeek": "4.31%",
-    "uptimeMonth": "4.31%",
-    "uptimeYear": "4.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "64.16%",
+    "uptimeDay": "64.16%",
+    "uptimeWeek": "64.16%",
+    "uptimeMonth": "64.16%",
+    "uptimeYear": "64.16%",
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-07-26": 0
+      "2022-07-26": 18
     }
   }
 ]
